@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surinderpro007
+- 👋 Hi, I’m Surinder Singh
 - 👀 I’m interested in create softwares
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
